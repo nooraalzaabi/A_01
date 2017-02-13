@@ -9,8 +9,8 @@ body {text-align: center;
   width:80em;
 }
 
-h2 {margin-top: em;
-    margin-bottom: em;
+h2 {margin-top: 0em;
+    margin-bottom: 0em;
     margin-right: 1em;
     margin-left: 11em;
   text-align: left; 
@@ -22,7 +22,7 @@ div {text-align: left;
     font-size: 1em;
     font-weight: normal;
    margin-top: 2em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     margin-right: 25em;
     margin-left: 25em;
   border-style: hidden;
@@ -46,17 +46,26 @@ color:#ffffff ;
 #LastArticle {padding-bottom: .1em;
 }
 li{float: centre;
-  margin-top: em;
-    margin-bottom: em;
+  margin-top: 0em;
+    margin-bottom: 0em;
     margin-right: 36em;
     margin-left: 33em
 }
 
-a:link    {color:white; background-color:transparent; text-decoration:none
+a:link   {color:white;
+          background-color:transparent;
+          text-decoration:none;
 }
-a:visited {color:white; background-color:transparent; text-decoration:none
+a:visited {color:white;
+            background-color:transparent;
+            text-decoration:none;
 }
-a:hover   {color:grey; background-color:transparent; text-decoration:none
+a:hover   {color:grey;
+           background-color:transparent;
+          text-decoration:none;
 }
-a:active  {color:pink; background-color:transparent; text-decoration:none
+a:active  {color:pink;
+          background-color:transparent;
+          text-decoration:none;
 }
+img {margin-top: 1.5em;}
